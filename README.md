@@ -190,7 +190,26 @@ Run the project using your preferred local development server and open it in you
 # 📄 License
 
 This project is licensed under the MIT License.
-## Screenshots
 
-![Home Screen](1000479045.jpg)
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+![Home Screen 1](1000479045.jpg)
+
+![Home Screen 2](1000479046.jpg)
+
+---
+
+### 🤖 UOH AI Academic Advisor Works
+
+![UOH AI Academic Advisor Works 1](1000479053.jpg)
+
+![UOH AI Academic Advisor Works 2](1000479055.jpg)
+
+---
+
+### 📊 UOH Semester GPA Calculator
+
+![UOH Semester GPA Calculator](1000479057.jpg)
 
