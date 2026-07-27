@@ -1,0 +1,6 @@
+{
+  "name": "UOH GPA/CGPA Calculator",
+  "description": "Official UOH GPA/CGPA calculator with AI Academic Advisor tailored for Doctor of Physical Therapy (DPT - 5 Years) & Allied Health Sciences students. Built by a DPT student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
