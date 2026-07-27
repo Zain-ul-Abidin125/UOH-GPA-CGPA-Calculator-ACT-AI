@@ -213,3 +213,17 @@ This project is licensed under the MIT License.
 
 ![UOH Semester GPA Calculator](1000479057.jpg)
 
+---
+
+### 📄 Academic Grade Summary & Transcript
+
+![Academic Grade Summary](1000479058.jpg)
+
+![Transcript](1000479060.jpg)
+
+---
+
+### 💬 General
+
+![General](1000479061.jpg)
+
