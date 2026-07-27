@@ -183,13 +183,9 @@ Run the project using your preferred local development server and open it in you
 -
 # 👨‍💻 Developer
 
-**Developed by Zain**
+**Developed by Zain-Ul-Abidin**
 
 ---
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ## 📸 Screenshots
 
