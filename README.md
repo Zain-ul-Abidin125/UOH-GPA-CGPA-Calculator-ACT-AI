@@ -126,7 +126,7 @@ The AI is instructed to:
 
 - Google AI Studio
 - Gemini API
-- Gemini AI Model
+- Gemini AI 3.6 Flash Model
 
 ---
 
